@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@bem-react/classname": "^1.6.0",
+    "bem": "^2.0.0"
+  }
+}

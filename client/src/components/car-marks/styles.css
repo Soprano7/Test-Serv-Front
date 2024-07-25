@@ -1,0 +1,16 @@
+.CarMarks {
+  display: flex;
+  gap: 10px;
+}
+
+.CarMarks p {
+  cursor: pointer;
+}
+
+.CarMarks_chosen {
+  color: red;
+}
+
+.CarMarks_element {
+  color: blue;
+}

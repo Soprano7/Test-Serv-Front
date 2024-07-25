@@ -1,0 +1,10 @@
+.CarModels {
+  display: flex;
+  flex-direction: column;
+}
+
+.CarModels_chosen_model {
+  background-color: aquamarine;
+  display: flex;
+  gap: 5px;
+}
